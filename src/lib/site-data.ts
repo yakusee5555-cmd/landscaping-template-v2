@@ -16,13 +16,13 @@ export const media = {
   fence: "/images/fence.jpg",
   lawnInstall: "/images/lawn-install.jpg",
   cleanup: "/images/cleanup.jpg",
-  treatment: "/images/treatment.webp",
+  lawnCare: "/images/lawn-care.webp",
   feeding: "/images/feeding.webp",
   brush: "/images/brush.webp",
   video: "/videos/hero.mp4",
 };
 export const services = [
-  { title: "Lawn care", description: "Reliable mowing, edging, feeding and seasonal treatments for healthier turf.", image: media.treatment, price: "From $55" },
+  { title: "Lawn care", description: "Reliable mowing, edging, feeding and seasonal treatments for healthier turf.", image: media.lawnCare, price: "From $55" },
   { title: "Hedge & shrub care", description: "Thoughtful pruning that keeps plants dense, balanced and beautifully shaped.", image: media.hedge, price: "From $149" },
   { title: "Garden design", description: "Planting plans with year-round color, texture and practical maintenance in mind.", image: media.shrub, price: "From $499" },
   { title: "Grounds maintenance", description: "Scheduled visits that keep residential and commercial grounds consistently sharp.", image: media.brush, price: "From $299" },
